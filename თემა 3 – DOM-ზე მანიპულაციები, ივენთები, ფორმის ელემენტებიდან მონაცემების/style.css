@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.random-div {
+    position: absolute;
+    background-color: rgba(0, 0, 255, 0.5);
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+}

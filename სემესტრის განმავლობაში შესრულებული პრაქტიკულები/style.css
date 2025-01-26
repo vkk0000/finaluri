@@ -1,0 +1,62 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+td {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+body {
+    position: relative;
+    height: 100vh;
+}
+
+.image {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+#message {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+
+body {
+    position: relative;
+    height: 100vh;
+}
+
+.image {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+#message {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
